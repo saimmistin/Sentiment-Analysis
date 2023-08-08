@@ -8,4 +8,4 @@
 
 
 This project provides a concise guide to performing sentiment analysis using Python, helping us extract valuable insights from textual data effortlessly.
-I will be using an amazon.review dataset.
+I will be using an amazon.review dataset. 
