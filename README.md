@@ -7,5 +7,21 @@
 
 
 
-This project provides a concise guide to performing sentiment analysis using Python, helping us extract valuable insights from textual data effortlessly.
-I will be using an amazon.review dataset. 
+This project involves sentiment analysis on Amazon reviews using natural language processing techniques. The goal is to classify reviews as positive or negative based on their content. The project uses Python and various libraries for data preprocessing, visualization, and machine learning.
+
+
+## Project Overview
+
+Data Loading and Preprocessing
+
+Sentiment Labeling
+
+Text Preprocessing
+
+Term Frequency Analysis
+
+Word Clouds
+
+Model Building and Evaluation
+
+Confusion Matrix Visualization
